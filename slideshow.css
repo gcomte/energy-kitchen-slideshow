@@ -100,7 +100,7 @@ body { height: 100%; }
 }
 
 .slideshow li:nth-child(8) span {
-  background-image: url(assets/ek8.jpg);
+  background-image: url(assets/ek8-bitcoin.jpg);
   -webkit-animation-delay: 70s;
   -moz-animation-delay: 70s;
   animation-delay: 70s;
