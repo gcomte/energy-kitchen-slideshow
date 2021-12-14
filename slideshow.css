@@ -27,6 +27,7 @@ body { height: 100%; }
 }
 
 .slideshow li h3 {
+  display:none;
   position: absolute;
   text-align: center;
   z-index: 2;
